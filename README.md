@@ -1,9 +1,13 @@
 # Nuvei Python SDK
 
-[![PyPI version](https://img.shields.io/pypi/v/nuvei)](https://pypi.org/project/nuvei/)
+[![Downloads](https://static.pepy.tech/personalized-badge/nuvei?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Downloads)](https://pepy.tech/project/nuvei)
+[![pypi](https://img.shields.io/pypi/v/nuvei?label=latest%20version)](https://pypi.org/project/nuvei/)
 [![Python](https://img.shields.io/pypi/pyversions/nuvei)](https://pypi.org/project/nuvei/)
-[![License: MIT](https://img.shields.io/pypi/l/nuvei)](https://github.com/krishanjangid/nuvei-python/blob/main/LICENSE)
 [![CI](https://img.shields.io/github/actions/workflow/status/krishanjangid/nuvei-python/ci.yml?label=CI)](https://github.com/krishanjangid/nuvei-python/actions/workflows/ci.yml)
+[![Issues](https://img.shields.io/github/issues-raw/krishanjangid/nuvei-python)](https://github.com/krishanjangid/nuvei-python/issues)
+[![Contributors](https://img.shields.io/github/contributors/krishanjangid/nuvei-python)](https://github.com/krishanjangid/nuvei-python/graphs/contributors)
+[![License](https://img.shields.io/pypi/l/nuvei)](https://github.com/krishanjangid/nuvei-python/blob/main/LICENSE)
+[![GitHub Follows](https://img.shields.io/github/followers/krishanjangid?label=Github%20Follows)](https://github.com/krishanjangid)
 
 A lightweight Python wrapper for the **Nuvei REST API v1.0** — authentication, payments, 3D Secure, financial operations, subscriptions, user & payment option management, all in one package.
 

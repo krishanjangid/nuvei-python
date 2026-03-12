@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nuvei"
-version = "1.0.1"
+version = "1.0.2"
 description = "Nuvei REST API v1.0 SDK for Python — payment processing, 3D Secure, subscriptions, and more."
 readme = "README.md"
 license = {text = "MIT"}
