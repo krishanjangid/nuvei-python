@@ -1,6 +1,24 @@
 # Nuvei Python SDK
 
+[![PyPI version](https://img.shields.io/pypi/v/nuvei)](https://pypi.org/project/nuvei/)
+[![Python](https://img.shields.io/pypi/pyversions/nuvei)](https://pypi.org/project/nuvei/)
+[![License: MIT](https://img.shields.io/pypi/l/nuvei)](https://github.com/krishanjangid/nuvei-python/blob/main/LICENSE)
+[![CI](https://img.shields.io/github/actions/workflow/status/krishanjangid/nuvei-python/ci.yml?label=CI)](https://github.com/krishanjangid/nuvei-python/actions/workflows/ci.yml)
+
 A lightweight Python wrapper for the **Nuvei REST API v1.0** — authentication, payments, 3D Secure, financial operations, subscriptions, user & payment option management, all in one package.
+
+**Requires Python 3.9+**
+
+---
+
+### Quick Links
+
+- [Features](#features) · [Installation](#installation) · [Quick Start](#quick-start) · [Service Modules](#service-modules)
+- [Integration Flows](#integration-flows) · [Webhook Verification](#webhook-dmn-verification) · [Configuration](#configuration)
+- [Error Handling](#error-handling) · [Testing & Development](#testing--development) · [Helpful Resources](#helpful-resources)
+- [Contributing](#contributing) · [Changelog](#changelog) · [License](#license)
+
+---
 
 ## Features
 
@@ -558,6 +576,31 @@ For details, see: [Testing APIs with Postman](https://docs.nuvei.com/documentati
 
 ---
 
+## Contributing
+
+Contributions are welcome! If you find a bug, have a feature request, or want to improve the SDK:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/my-feature`)
+3. Commit your changes and add tests
+4. Open a pull request
+
+For bugs or questions, [open an issue](https://github.com/krishanjangid/nuvei-python/issues).
+
+---
+
+## Changelog
+
+See [CHANGELOG.md](https://github.com/krishanjangid/nuvei-python/blob/main/CHANGELOG.md) for a full list of changes in each release.
+
+---
+
 ## License
 
-MIT
+MIT — see [LICENSE](https://github.com/krishanjangid/nuvei-python/blob/main/LICENSE) for details.
+
+---
+
+<p align="center">
+  Made with Python & ❤️ by <a href="https://github.com/krishanjangid">KK Jangid</a>
+</p>
