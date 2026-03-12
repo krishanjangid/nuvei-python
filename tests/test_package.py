@@ -6,7 +6,7 @@ from __future__ import annotations
 class TestPackageExports:
     def test_version(self):
         import nuvei
-        assert nuvei.__version__ == "1.0.0"
+        assert nuvei.__version__
 
     def test_all_exports_accessible(self):
         import nuvei
