@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.0.1] - 2026-03-12
+
+### Improved
+
+- Added shields.io badges (PyPI version, Python versions, license, CI status)
+- Added quick links / table of contents for easier navigation
+- Added Python version requirement note
+- Added contributing guide with issue link
+- Added changelog reference section
+- Added footer attribution
+
 ## [1.0.0] - 2026-03-12
 
 ### Added
